@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/short1"
+    android:background="@color/background_material_dark">
+
+    <ViewFlipper
+        android:id="@+id/view_flipper"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent" >
+
+        <RelativeLayout
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent" >
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="ERIK FINMAN"
+                android:id="@+id/button"
+                android:layout_alignParentTop="true"
+                android:layout_centerHorizontal="true" />
+
+            <ImageView
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:id="@+id/imageView2"
+                android:layout_below="@+id/button"
+                android:layout_centerHorizontal="true"
+                android:src="@drawable/erik" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent" >
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="WISTON CHURCHIL"
+                android:id="@+id/buttonA"
+                android:layout_alignParentTop="true"
+                android:layout_centerHorizontal="true" />
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/imageViewA"
+                android:layout_below="@+id/buttonA"
+                android:layout_centerHorizontal="true"
+                android:src="@drawable/winston_churchill" />
+        </RelativeLayout>
+
+        <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent" >
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="LARRY PAGE"
+            android:id="@+id/button3"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true" />
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/imageView3"
+            android:layout_below="@+id/button3"
+            android:layout_centerHorizontal="true"
+            android:src="@drawable/larry_page" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent" >
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="EDEN FULLER"
+                android:id="@+id/button4"
+                android:layout_alignParentTop="true"
+                android:layout_centerHorizontal="true" />
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:id="@+id/imageView4"
+                android:layout_below="@+id/button4"
+                android:layout_centerHorizontal="true"
+                android:src="@drawable/eden_full" />
+        </RelativeLayout>
+        <RelativeLayout
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent" >
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="SHO YANO"
+                android:id="@+id/button5"
+                android:layout_alignParentTop="true"
+                android:layout_centerHorizontal="true" />
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:id="@+id/imageView5"
+                android:layout_below="@+id/button5"
+                android:layout_centerHorizontal="true"
+                android:src="@drawable/sho_yano" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent" >
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="WALT DISNEY"
+                android:id="@+id/button6"
+                android:layout_alignParentTop="true"
+                android:layout_centerHorizontal="true" />
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:id="@+id/imageView6"
+                android:layout_below="@+id/button6"
+                android:layout_centerHorizontal="true"
+                android:src="@drawable/walt_disney" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent" >
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="SERGEY BRIN"
+                android:id="@+id/button7"
+                android:layout_alignParentTop="true"
+                android:layout_centerHorizontal="true" />
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:id="@+id/imageView7"
+                android:layout_below="@+id/button7"
+                android:layout_centerHorizontal="true"
+                android:src="@drawable/sergey_brin" />
+        </RelativeLayout>
+        <RelativeLayout
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent" >
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="ALEC URBACH"
+                android:id="@+id/button8"
+                android:layout_alignParentTop="true"
+                android:layout_centerHorizontal="true" />
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:id="@+id/imageView8"
+                android:layout_below="@+id/button8"
+                android:layout_centerHorizontal="true"
+                android:src="@drawable/alec_urbach" />
+        </RelativeLayout>
+        <RelativeLayout
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent" >
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="MARK ZUCKERBERG"
+                android:id="@+id/button9"
+                android:layout_alignParentTop="true"
+                android:layout_centerHorizontal="true" />
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:id="@+id/imageView9"
+                android:layout_below="@+id/button9"
+                android:layout_centerHorizontal="true"
+                android:src="@drawable/mark_zuckerberg" />
+        </RelativeLayout>
+        <RelativeLayout
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent" >
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="AKSHAY VENKATESH"
+                android:id="@+id/button10"
+                android:layout_alignParentTop="true"
+                android:layout_centerHorizontal="true" />
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:id="@+id/imageView10"
+                android:layout_below="@+id/button10"
+                android:layout_centerHorizontal="true"
+                android:src="@drawable/akshay_venkatesh" />
+        </RelativeLayout>
+        <RelativeLayout
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent" >
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="BILL GATES"
+                android:id="@+id/button11"
+                android:layout_alignParentTop="true"
+                android:layout_centerHorizontal="true" />
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:id="@+id/imageView11"
+                android:layout_below="@+id/button11"
+                android:layout_centerHorizontal="true"
+                android:src="@drawable/bill_gates" />
+        </RelativeLayout>
+        <RelativeLayout
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent" >
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="ELIZABETH HOLMES"
+                android:id="@+id/button12"
+                android:layout_alignParentTop="true"
+                android:layout_centerHorizontal="true" />
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:id="@+id/imageView12"
+                android:layout_below="@+id/button12"
+                android:layout_centerHorizontal="true"
+                android:src="@drawable/elizabeth_holmes" />
+        </RelativeLayout>
+
+
+
+    </ViewFlipper>
+
+</RelativeLayout>

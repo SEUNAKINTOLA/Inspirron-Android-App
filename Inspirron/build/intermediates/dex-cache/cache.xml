@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\AKINTOLA OLUWASEUN\AndroidStudioProjects\Inspirron\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f02127a85abd52a2cd526d4c2409f21969f80ee8">
+        <dex dex="C:\Users\AKINTOLA OLUWASEUN\AndroidStudioProjects\Inspirron\app\build\intermediates\pre-dexed\debug\classes-8104a8889cd9cc49945270381f3a77e0120138f2.jar" />
+    </item>
+    <item
+        jar="C:\Users\AKINTOLA OLUWASEUN\AndroidStudioProjects\Inspirron\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="6836d188602ec5382d1967c58b00960eb8ff8773">
+        <dex dex="C:\Users\AKINTOLA OLUWASEUN\AndroidStudioProjects\Inspirron\app\build\intermediates\pre-dexed\debug\classes-57954bceaf5983779dacdfd9c03786cbd2bad580.jar" />
+    </item>
+    <item
+        jar="C:\Users\AKINTOLA OLUWASEUN\AndroidStudioProjects\Inspirron\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a172852a35ff919e85b9b7f14bbc15c5bee25520">
+        <dex dex="C:\Users\AKINTOLA OLUWASEUN\AndroidStudioProjects\Inspirron\app\build\intermediates\pre-dexed\debug\classes-abd7543ffcc070dbd48bd74676f301fcb0cc2078.jar" />
+    </item>
+    <item
+        jar="C:\Users\AKINTOLA OLUWASEUN\AndroidStudioProjects\Inspirron\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1e98ef3f124bb7a11f8575f9ff5dfea330b61b6f">
+        <dex dex="C:\Users\AKINTOLA OLUWASEUN\AndroidStudioProjects\Inspirron\app\build\intermediates\pre-dexed\debug\classes-cffffa3e92946bebecfba5247fc1fca9b9f47845.jar" />
+    </item>
+    <item
+        jar="C:\Users\AKINTOLA OLUWASEUN\AndroidStudioProjects\Inspirron\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="02bac2dc792d78241077861566f2c82da955e7fa">
+        <dex dex="C:\Users\AKINTOLA OLUWASEUN\AndroidStudioProjects\Inspirron\app\build\intermediates\pre-dexed\debug\classes-862b94e2f48ca5f4154fe7474d216b8e24ff0bdf.jar" />
+    </item>
+    <item
+        jar="C:\Users\AKINTOLA OLUWASEUN\AndroidStudioProjects\Inspirron\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="ba207be21987c11b37d9f8faa08ed6e722569f30">
+        <dex dex="C:\Users\AKINTOLA OLUWASEUN\AndroidStudioProjects\Inspirron\app\build\intermediates\pre-dexed\debug\classes-91730ac301be08cb8e5cb4f26d98a7c924bc7b0e.jar" />
+    </item>
+    <item
+        jar="C:\Users\AKINTOLA OLUWASEUN\AndroidStudioProjects\Inspirron\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="272bc5d7063f24bc3a33ea1d318cde8f31f5ec4c">
+        <dex dex="C:\Users\AKINTOLA OLUWASEUN\AndroidStudioProjects\Inspirron\app\build\intermediates\pre-dexed\debug\classes-e262cdd5d00b470de3db1b5cfe1ee930017e1478.jar" />
+    </item>
+    <item
+        jar="C:\Users\AKINTOLA OLUWASEUN\AndroidStudioProjects\Inspirron\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a1372c17fccacca753d3951d3ad820571cbce075">
+        <dex dex="C:\Users\AKINTOLA OLUWASEUN\AndroidStudioProjects\Inspirron\app\build\intermediates\pre-dexed\debug\classes-38eae41f741da9e1367ecd80eb58c13edc81fdd3.jar" />
+    </item>
+    <item
+        jar="C:\Users\AKINTOLA OLUWASEUN\AndroidStudioProjects\Inspirron\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="8e3a972f28b8bae817e382257ba177a31bcadbbc">
+        <dex dex="C:\Users\AKINTOLA OLUWASEUN\AndroidStudioProjects\Inspirron\app\build\intermediates\pre-dexed\debug\classes-0fdc60694558e4c9ccae9cb1bf4d0e71005aafa6.jar" />
+    </item>
+    <item
+        jar="C:\Users\AKINTOLA OLUWASEUN\AndroidStudioProjects\Inspirron\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="63ec6e9f4fe5482a7447d0f3091b8e543a02554c">
+        <dex dex="C:\Users\AKINTOLA OLUWASEUN\AndroidStudioProjects\Inspirron\app\build\intermediates\pre-dexed\debug\classes-af86af54be2550f31fa6f08e6d63bcdd58eb6463.jar" />
+    </item>
+    <item
+        jar="C:\Users\AKINTOLA OLUWASEUN\AndroidStudioProjects\Inspirron\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appstate\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="68c140702c7242d914655bcb3164d9e8c45b84cb">
+        <dex dex="C:\Users\AKINTOLA OLUWASEUN\AndroidStudioProjects\Inspirron\app\build\intermediates\pre-dexed\debug\classes-66a06624ec95669722c45d369d5e2665c396ee9c.jar" />
+    </item>
+    <item
+        jar="C:\Users\AKINTOLA OLUWASEUN\AndroidStudioProjects\Inspirron\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="8d736fefa22d896e84a268354b3ed48a42663150">
+        <dex dex="C:\Users\AKINTOLA OLUWASEUN\AndroidStudioProjects\Inspirron\app\build\intermediates\pre-dexed\debug\classes-69988be9484975aff041a8dfd0de09011f1e926c.jar" />
+    </item>
+    <item
+        jar="C:\Users\AKINTOLA OLUWASEUN\AndroidStudioProjects\Inspirron\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e7b35244f50663b3f8d150714bca9ecd7a290da1">
+        <dex dex="C:\Users\AKINTOLA OLUWASEUN\AndroidStudioProjects\Inspirron\app\build\intermediates\pre-dexed\debug\classes-75612369e5aca9c3ca7d237a096e9198218bed31.jar" />
+    </item>
+    <item
+        jar="C:\Users\AKINTOLA OLUWASEUN\AndroidStudioProjects\Inspirron\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="C:\Users\AKINTOLA OLUWASEUN\AndroidStudioProjects\Inspirron\app\build\intermediates\pre-dexed\debug\classes-dc3205ff15a735b6f98f769333e82a888118109a.jar" />
+    </item>
+    <item
+        jar="C:\Users\AKINTOLA OLUWASEUN\AndroidStudioProjects\Inspirron\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="69dd177337ead693c408c8dddc9546bb6f1244fa">
+        <dex dex="C:\Users\AKINTOLA OLUWASEUN\AndroidStudioProjects\Inspirron\app\build\intermediates\pre-dexed\debug\classes-bfa1bbbcdcdda7af067ff18a1480f0e08e8ecd7c.jar" />
+    </item>
+    <item
+        jar="C:\Program Files\Android\android-studio\sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.0\support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="C:\Users\AKINTOLA OLUWASEUN\AndroidStudioProjects\Inspirron\app\build\intermediates\pre-dexed\debug\support-annotations-22.2.0-a3d50b90b2563b8b78a0d832161a0fe52b9df90d.jar" />
+    </item>
+    <item
+        jar="C:\Users\AKINTOLA OLUWASEUN\AndroidStudioProjects\Inspirron\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="06a42becc33232ec0ee125161da68c1829c9f8fd">
+        <dex dex="C:\Users\AKINTOLA OLUWASEUN\AndroidStudioProjects\Inspirron\app\build\intermediates\pre-dexed\debug\classes-dd3413ad9915018784cf373b8c37080e0ca276a7.jar" />
+    </item>
+    <item
+        jar="C:\Users\AKINTOLA OLUWASEUN\AndroidStudioProjects\Inspirron\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="29ebc7e04d877062317c8cc0e68b20f0c1fcda66">
+        <dex dex="C:\Users\AKINTOLA OLUWASEUN\AndroidStudioProjects\Inspirron\app\build\intermediates\pre-dexed\debug\classes-ffbc6ca67a296b191cc8c5a636cfb908448f761f.jar" />
+    </item>
+    <item
+        jar="C:\Users\AKINTOLA OLUWASEUN\AndroidStudioProjects\Inspirron\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f44d03c138cb6488fdbaa65e3a7e5878861a56d8">
+        <dex dex="C:\Users\AKINTOLA OLUWASEUN\AndroidStudioProjects\Inspirron\app\build\intermediates\pre-dexed\debug\classes-a55312276a7c970d43644308546fd5672cfd4798.jar" />
+    </item>
+    <item
+        jar="C:\Users\AKINTOLA OLUWASEUN\AndroidStudioProjects\Inspirron\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="C:\Users\AKINTOLA OLUWASEUN\AndroidStudioProjects\Inspirron\app\build\intermediates\pre-dexed\debug\classes-c87cd5ca7d9679ee97f4b7870af0757ad7f256c2.jar" />
+    </item>
+    <item
+        jar="C:\Users\AKINTOLA OLUWASEUN\AndroidStudioProjects\Inspirron\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="6440e5e5cfe368f9bff3c537fb8988048069cb33">
+        <dex dex="C:\Users\AKINTOLA OLUWASEUN\AndroidStudioProjects\Inspirron\app\build\intermediates\pre-dexed\debug\classes-68ab196fee3628b7dced9f7006298e4b62349618.jar" />
+    </item>
+    <item
+        jar="C:\Users\AKINTOLA OLUWASEUN\AndroidStudioProjects\Inspirron\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1a6411087ab88ce5542f593e63a2752b6b0d6f1a">
+        <dex dex="C:\Users\AKINTOLA OLUWASEUN\AndroidStudioProjects\Inspirron\app\build\intermediates\pre-dexed\debug\classes-0c2107fcfebed0dbd926179b8c1e89bb8fcd8195.jar" />
+    </item>
+    <item
+        jar="C:\Users\AKINTOLA OLUWASEUN\AndroidStudioProjects\Inspirron\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\libs\internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="C:\Users\AKINTOLA OLUWASEUN\AndroidStudioProjects\Inspirron\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.0-3584f7086d1e0a8e3c65847b51e9c61a339e0c08.jar" />
+    </item>
+    <item
+        jar="C:\Users\AKINTOLA OLUWASEUN\AndroidStudioProjects\Inspirron\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a78183f30e769a98ab4820794f597763088d3065">
+        <dex dex="C:\Users\AKINTOLA OLUWASEUN\AndroidStudioProjects\Inspirron\app\build\intermediates\pre-dexed\debug\classes-785ce8d7c75496b5404ad0c601b6ca7087996a98.jar" />
+    </item>
+    <item
+        jar="C:\Users\AKINTOLA OLUWASEUN\AndroidStudioProjects\Inspirron\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d405025c600055237c171a0bbabaa49d69696573">
+        <dex dex="C:\Users\AKINTOLA OLUWASEUN\AndroidStudioProjects\Inspirron\app\build\intermediates\pre-dexed\debug\classes-dbfe6028a42a6d0a0721f0662e5f9e38ace01f6c.jar" />
+    </item>
+    <item
+        jar="C:\Users\AKINTOLA OLUWASEUN\AndroidStudioProjects\Inspirron\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.0.0\jars\libs\internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="ba3df4eb0a630d7de294f0e48d3f9267d279b784">
+        <dex dex="C:\Users\AKINTOLA OLUWASEUN\AndroidStudioProjects\Inspirron\app\build\intermediates\pre-dexed\debug\internal_impl-22.0.0-00adecadbd8edecdbbb8c3b5dcd516ceb3f035e3.jar" />
+    </item>
+
+</items>
